@@ -1,0 +1,35 @@
+{
+  "name": "pet",
+  "version": "1.0.0",
+  "description": "宠物社区",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wu-Sophie/pet.git"
+  },
+  "author": "sophieWu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wu-Sophie/pet/issues"
+  },
+  "homepage": "https://github.com/Wu-Sophie/pet#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-extend": "^1.1.6",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-rev-append": "^0.1.7",
+    "gulp-sass": "^3.0.0",
+    "jshint": "^2.9.4"
+  },
+  "keywords": [
+    "宠物社区"
+  ]
+}
